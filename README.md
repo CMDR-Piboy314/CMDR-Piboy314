@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CMDR-Piboy314.CMDR-Piboy314&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=gdscript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 <!---
