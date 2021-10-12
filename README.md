@@ -11,6 +11,11 @@
 ![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
+<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&langs_count=3&theme=radical" />
+</a>
+
+
 <!---
 CMDR-Piboy314/CMDR-Piboy314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
