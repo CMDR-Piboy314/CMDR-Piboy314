@@ -11,10 +11,9 @@
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&langs_count=3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&langs_count=2&theme=radical" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
