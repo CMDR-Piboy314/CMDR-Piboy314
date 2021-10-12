@@ -19,6 +19,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
 </a>
 
+<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=CMDR-Piboy314&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314x&repo=CMDR-Piboy314&show_icons=true&theme=radical" />
+</a>
+
 <!---
 CMDR-Piboy314/CMDR-Piboy314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
