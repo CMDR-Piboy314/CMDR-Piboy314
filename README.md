@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314x&repo=CMDR-Piboy314&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=CMDR-Piboy314&show_icons=true&theme=radical" />
 </a>
 
 <!---
