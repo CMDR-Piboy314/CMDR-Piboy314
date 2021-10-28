@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
