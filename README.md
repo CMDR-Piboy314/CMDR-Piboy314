@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CMDR-Piboy314
-- 👀 I’m interested in learning programming, and how to use my new mac (secretly using linux in the meantime)
-- 🌱 I’m currently learning Godot by making a platformer game
-- 👨‍💻 I believe I am finally out of tutorial hell! (At least for Godot)
+- 👀 I’m interested in learning programming, and how to use my new mac (using linux in a vm in the meantime)
+- 🌱 I'm currently playing around with Sonic Pi and making games and tools with Godot, C++, SDL2 and Python
+- 👨‍💻 I am finally out of tutorial hell, and use tutorials only for assets and ideas!
 
 
 ![GitHub followers](https://img.shields.io/github/followers/CMDR-Piboy314?style=social)
