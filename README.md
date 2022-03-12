@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Pygame-Platformert&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Pygame-Platformer&show_icons=true&theme=radical" />
 </a>
 
 
