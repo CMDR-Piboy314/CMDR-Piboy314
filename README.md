@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CMDR-Piboy314
 - 👀 I’m interested in learning programming (obviously) and how to improve my art
-- 🌱 I'm currently learning rust, vulkan was too much xD
-- 👨‍💻 A wise rustacean once said "warning: crate `RustLearning` should have a snake case name"
+- 🌱 I'm currently learning OpenGL
+- 👨‍💻 I think I found a ~~bug~~ feature in my code
 
 
 ![GitHub followers](https://img.shields.io/github/followers/CMDR-Piboy314?style=social)
