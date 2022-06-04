@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3" />
 </a>
 
-<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
+<a href="https://github.com/CMDR-Piboy314/GLPlayground">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
 </a>
 
