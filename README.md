@@ -16,16 +16,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3" />
 </a>
 
-<a href="https://github.com/CMDR-Piboy314/GLPlayground">
+<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/GLPlayground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=CMDR-Piboy314&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=GLPlayground&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/CMDR-Piboy314/Pygame-Platformer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Pygame-Platformer&show_icons=true&theme=radical" />
+<a href="https://github.com/CMDR-Piboy314/Raycaster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycasterr&show_icons=true&theme=radical" />
 </a>
 
 
