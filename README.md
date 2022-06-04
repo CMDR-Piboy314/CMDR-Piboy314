@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/Raycaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycasterr&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycaster&show_icons=true&theme=radical" />
 </a>
 
 
