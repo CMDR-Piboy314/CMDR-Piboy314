@@ -29,7 +29,7 @@
 </a>
 
 
-<h2><a href="https://skyline.github.com/CMDR-Piboy314/2021" title="2021 Github Skyline">My 2021 Github Skyline</a></h2>
+<h2><a href="https://skyline.github.com/CMDR-Piboy314/2022" title="2022 Github Skyline">My 2022 Github Skyline</a></h2>
 
 <!---
 CMDR-Piboy314/CMDR-Piboy314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
