@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CMDR-Piboy314
-- 👀 I’m interested in learning programming (obviously) and how to improve my art
+- 👀 I’m interested in graphics programming and AI
 - 🌱 I'm currently learning OpenGL
 - 👨‍💻 I think I found a ~~bug~~ feature in my code
 
