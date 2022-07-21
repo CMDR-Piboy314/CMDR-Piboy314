@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/GLPlayground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=GLPlayground&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ConstellationGamesOrg&repo=Constellation-engine&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/Raycaster">
