@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CMDR-Piboy314
 - 👀 I’m interested in graphics programming and AI
-- 🌱 I'm currently creating a game engine
+- 🌱 I'm currently creating an operating system
 - 👨‍💻 I think I found a ~~bug~~ feature in my code
 
 
