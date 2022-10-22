@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CMDR-Piboy314
 - 👀 I’m interested in low-level and graphics programming
-- 🌱 I'm currently creating an operating system
+- 🌱 I'm currently taking CS50x
 - 👨‍💻 I think I found a ~~bug~~ feature in my code
 
 
