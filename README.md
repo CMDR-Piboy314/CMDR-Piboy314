@@ -12,22 +12,25 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
-<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3&hide=makefile" />
-</a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
+	<img align="center"
+		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&langs_count=3&theme=radical&hide=makefile"/>
+	<!-- &layout=compact -->
 </a>
-
+<a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
+	<img align="center"
+		 src="https://github-readme-stats.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats"/>
+</a>
 <a href="https://github.com/CMDR-Piboy314/windwOS">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=CMDR-Piboy314&repo=windwOS&show_icons=true&theme=radical" />
+	<img align="center"
+		 src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=windwOS&show_icons=true&theme=radical" />
 </a>
-
+</a>
 <a href="https://github.com/CMDR-Piboy314/Raycaster">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycaster&show_icons=true&theme=radical" />
+  <img align="center"
+	   src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycaster&show_icons=true&theme=radical" />
 </a>
-
 
 <h2><a href="https://skyline.github.com/CMDR-Piboy314/2022" title="2022 Github Skyline">My 2022 Github Skyline</a></h2>
 
