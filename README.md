@@ -13,19 +13,19 @@
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3&hide=makefile" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=CMDR-Piboy314&theme=radical&langs_count=3&hide=makefile" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/CMDR-Piboy314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=CMDR-Piboy314&show_icons=true&line_height=27&theme=radical&count_private=true" alt="CMDR-Piboy314's GitHub Stats" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/windwOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=windwOS&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=CMDR-Piboy314&repo=windwOS&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/CMDR-Piboy314/Raycaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycaster&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=CMDR-Piboy314&repo=Raycaster&show_icons=true&theme=radical" />
 </a>
 
 
