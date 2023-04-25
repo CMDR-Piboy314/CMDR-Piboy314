@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CMDR-Piboy314
 - 👀 I’m interested in game development and random low-level programming!
-- 🌱 I'm currently taking CS50x and playing with Godot 4 <3
-- 👨‍💻 Infirma, a simple, but well made FPS made in Godot 4.
+- 🌱 I'm currently taking CS50x and playing with Godot 4.
+- 👨‍💻 Playing with Qodot.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/CMDR-Piboy314?style=social)
